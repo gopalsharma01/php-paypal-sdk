@@ -1,5 +1,5 @@
 {
-    "name": "phppaypal/paypal-sdk",
+    "name": "phppaypal/php-paypal-sdk",
     "description": "Paypal complete SDK",
     "keywords": ["paypal pro", "setexpress checkout"],
     "type": "library",
